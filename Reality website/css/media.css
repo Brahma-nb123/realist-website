@@ -1,0 +1,29 @@
+@media (max-width: 1200px) { 
+    .left-content h2  {
+        font-size: 3rem ; 
+        /* color: blue;       */
+    }
+    .carousel-caption {
+        position: none;
+        right: 15%;
+        bottom: 1.25rem;
+        left: 15%;
+        /* padding-top: 1.25rem;
+        padding-bottom: 1.25rem; */
+        color: #fff;
+        text-align: center;
+    }
+ }
+
+
+
+ @media (max-width: 360px){
+
+.navbar-light .navbar-brand {
+    color: #fff!important;
+    font-size: 1.8rem;
+}
+.navbar-light .navbar-brand {
+    padding-left: 1rem;
+}
+ }
